@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jFreeChartDemo"
+  id="myeclipse.1461206137089"
+  context-root="/jFreeChartDemo"
+  j2ee-spec="5.0"
+  archive="jFreeChartDemo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
